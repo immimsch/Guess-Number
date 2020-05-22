@@ -1,0 +1,17 @@
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\bin\Debug\Guess Game GUI.exe.config
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\bin\Debug\Guess Game GUI.exe
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\bin\Debug\Guess Game GUI.pdb
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\Guess Game GUI.csprojAssemblyReference.cache
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\MainWindow.g.cs
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\App.g.cs
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\Guess Game GUI_MarkupCompile.cache
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\Guess Game GUI_MarkupCompile.lref
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\MainWindow.baml
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\Guess Game GUI.g.resources
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\Guess_Game_GUI.Properties.Resources.resources
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\Guess Game GUI.csproj.GenerateResource.cache
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\Guess Game GUI.csproj.CoreCompileInputs.cache
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\Guess Game GUI.exe
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\Guess Game GUI.pdb
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\GameWindows.g.cs
+C:\Users\hsyang\Desktop\Demo\Guess Game GUI\obj\Debug\GameWindows.baml
